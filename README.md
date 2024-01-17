@@ -61,7 +61,7 @@ To pull and build the Docker image, run:
 ```bash
 docker pull scrapingfacebookelyadata:1.1.1
 docker build -t scrapingfacebookelyadata:1.1.1 .
-
+```
 ## Running the Docker-compose:
 ![Project Image](https://scontent.ftun1-2.fna.fbcdn.net/v/t1.15752-9/418483794_1057482772237905_8110445362380490658_n.png?_nc_cat=103&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=q8-2mkFXcWwAX_hxi66&_nc_ht=scontent.ftun1-2.fna&oh=03_AdQBkQp6lEoJWeMDijlT92sK6zz7hd7sWtkTMoroHkHuHQ&oe=65CF1A05)
 
