@@ -64,12 +64,13 @@ docker build -t scrapingfacebookelyadata:1.1.1 .
 ## Running the Docker-compose:
 ![Image Alt Text](https://scontent.ftun1-2.fna.fbcdn.net/v/t1.15752-9/417660606_340674955453953_908899917345406216_n.png?_nc_cat=110&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=a9r1blZT9M8AX8RwQyr&_nc_ht=scontent.ftun1-2.fna&oh=03_AdQeglK1mRl4Y125Nkyzfj-qkv6HpCzx-oO0xJ1C7Emd6g&oe=65CF1A29)
 
-
-
-[def]: Téléchargements/cap2.png
 ## Request using Curl Command:
-![][def]
+![Project Logo](https://scontent.ftun1-2.fna.fbcdn.net/v/t1.15752-9/417507052_353899820918970_8274530498879428990_n.png?_nc_cat=107&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=x4nAEXQ9BmYAX9PIJ_W&_nc_ht=scontent.ftun1-2.fna&oh=03_AdTQ2Nkv-6kP89Uz_9uWgJBIyWe1XXc46l_f4Na70MUM-g&oe=65CF2B7A)
 
 
-[def]: Téléchargements/cap1.png
+## Request using Curl Command:
+![Project Logo](https://scontent.ftun1-2.fna.fbcdn.net/v/t1.15752-9/417507052_353899820918970_8274530498879428990_n.png?_nc_cat=107&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=x4nAEXQ9BmYAX9PIJ_W&_nc_ht=scontent.ftun1-2.fna&oh=03_AdTQ2Nkv-6kP89Uz_9uWgJBIyWe1XXc46l_f4Na70MUM-g&oe=65CF2B7A)
+
+## Verification of Data in Containerized Database
+![Alt text](https://scontent.ftun1-2.fna.fbcdn.net/v/t1.15752-9/417619094_4417978388426719_1681949353280494202_n.png?_nc_cat=109&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=gdw7MjHMiigAX_tB7mR&_nc_ht=scontent.ftun1-2.fna&oh=03_AdT1Vn02uvcEOLhpoWKZfs3ik5M2XV-DwpH42Qw5ujcVHw&oe=65CF0843)
 
