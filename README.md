@@ -62,7 +62,8 @@ docker pull scrapingfacebookelyadata:1.1.1
 docker build -t scrapingfacebookelyadata:1.1.1 .
 ```
 ## Running the Docker-compose:
-![][def]
+![Image Alt Text](https://scontent.ftun1-2.fna.fbcdn.net/v/t1.15752-9/417660606_340674955453953_908899917345406216_n.png?_nc_cat=110&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=a9r1blZT9M8AX8RwQyr&_nc_ht=scontent.ftun1-2.fna&oh=03_AdQeglK1mRl4Y125Nkyzfj-qkv6HpCzx-oO0xJ1C7Emd6g&oe=65CF1A29)
+
 
 
 [def]: Téléchargements/cap2.png
