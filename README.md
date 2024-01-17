@@ -72,8 +72,4 @@ docker build -t scrapingfacebookelyadata:1.1.1 .
 
 [def]: Téléchargements/cap1.png
 =======
-## Request using Curl Command:
-![Alt Text]([URL](https://ibb.co/0D9gs78)https://ibb.co/0D9gs78)
 
-
->>>>>>> origin/main
