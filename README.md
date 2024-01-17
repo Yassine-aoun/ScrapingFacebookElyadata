@@ -39,11 +39,7 @@ Elyadata Facebook Scraper is a FastAPI-based web scraping tool that extracts dat
 3. **Access MongoDB Database:**
 
     ```bash
-<<<<<<< HEAD
-    docker exec -it mongo-1 mongosh
-=======
     docker exec -it scrapingfacebookelyadata-mongo-1 mongosh
->>>>>>> origin/main
     use facebook_scraping_db
     db.facebook_data.find().pretty()
     ```
@@ -65,7 +61,6 @@ To pull and build the Docker image, run:
 docker pull scrapingfacebookelyadata:1.1.1
 docker build -t scrapingfacebookelyadata:1.1.1 .
 ```
-<<<<<<< HEAD
 ## Running the Docker-compose:
 ![][def]
 
